@@ -26,26 +26,26 @@ This is a list of companies that are easy to apply to. These companies use a job
 | [Audience](http://www.audience.com/careers-jobvite) | Mountain View, CA |
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
-| [BambooHR](http://www.bamboohr.com/about/careers.php) |  |
-| [Bitly](https://bitly.com/pages/careers) |  |
-| [Bitnami](https://bitnami.com/careers) |  |
-| [BitTorrent](http://www.bittorrent.com/company/about/jobs) |  |
-| [Bloomz](https://www.bloomz.net/) |  |
-| [Brigade](https://jobs.lever.co/brigade) |  |
-| [BuildASign](https://www.buildasign.com/careers) |  |
-| [BuildZoom](https://www.buildzoom.com/careers) |  |
+| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
+| [Bitly](https://bitly.com/pages/careers) | Denver, CO; New York, NY; San Francisco, CA |
+| [Bitnami](https://bitnami.com/careers) | San Francisco, CA; Sevilla, Spain |
+| [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA |
+| [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
+| [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
+| [BuildASign](https://www.buildasign.com/careers) | Austin, TX |
+| [BuildZoom](https://www.buildzoom.com/careers) | Manila, Philippines; San Francisco, CA |
 | [BuzzFeed](http://www.buzzfeed.com/about/jobs) |  |
-| [Captain401](https://captain401.com/careers) |  |
-| [Casetext](https://casetext.com/jobs) |  |
+| [Captain401](https://captain401.com/careers) | San Francisco, CA |
+| [Casetext](https://casetext.com/jobs) | Palo Alto, CA |
 | [Casper](https://boards.greenhouse.io/casper) |  |
 | [Catchpoint](http://www.catchpoint.com/about/careers/) |  |
 | [Centro](http://www.centro.net/careers) |  |
-| [change.org](https://www.change.org/careers) |  |
-| [Chewy](http://www.chewy.com/jobs) |  |
-| [Chexology](https://jobs.lever.co/chexology) |  |
-| [CircleUp](https://circleup.com/jobs/) |  |
+| [Change.org](https://www.change.org/careers) | San Francisco, CA |
+| [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
+| [Chexology](https://jobs.lever.co/chexology) | New York, NY |
+| [CircleUp](https://circleup.com/jobs/) | Remote; San Francisco, CA |
 | [Citrix](https://jobs.citrix.com/) |  |
-| [ClearSlide](https://www.clearslide.com/careers) |  |
+| [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
 | [Cloudera](http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html) |  |
 | [Clue](https://www.helloclue.com/jobs.html) |  |
 | [Clustrix](http://www.clustrix.com/company/careers/) |  |
